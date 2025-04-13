@@ -81,4 +81,15 @@ python pingpong.py
 
   ____
 📸 Aperçu 
+![Capture d'écran 2025-04-13 163627](https://github.com/user-attachments/assets/f04b6107-0663-4cda-88ac-b22c49be7770)
+ En pleine partie !
+Cette image montre une session de jeu multijoueur où les joueurs s’affrontent en temps réel. La balle rebondit entre les deux raquettes, le score est comptabilisé automatiquement, et le système de chat permet aux joueurs de communiquer pendant la partie.
+
+![Capture d'écran 2025-04-13 164210](https://github.com/user-attachments/assets/e680caab-70fe-4f51-9f35-e80e9aa74d0f)
+🏆 Victoire du Joueur 2 !
+Le Joueur 2 atteint le score de 10 points et remporte la partie.
+Un message s’affiche à l’écran pour annoncer le gagnant.
+L’utilisateur a alors le choix :
+<.> Appuyer sur R pour recommencer une nouvelle partie
+<.> Appuyer sur Q pour quitter le jeu
 
