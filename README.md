@@ -74,6 +74,7 @@ python pingpong.py
 
     ___
 🛠️ À faire
+
  Ajouter un mode en ligne.
  Sauvegarder l’historique des discussions.
  Améliorer l’interface graphique.
