@@ -107,4 +107,7 @@ L’utilisateur a alors le choix :
 <.> Appuyer sur Q pour quitter le jeu
 ![Capture d'écran 2025-04-14 200413](https://github.com/user-attachments/assets/433c5481-953e-4f62-aa0e-fdf5b17add7f)
 
+![Capture d'écran 2025-04-29 234609](https://github.com/user-attachments/assets/0d25e30f-a8f7-453d-b524-bc4bacf150d7)
+
+
 
