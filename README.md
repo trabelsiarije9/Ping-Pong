@@ -1,8 +1,10 @@
 #🏓Ping-Pong
+
 Un remake classique de Pong, développé en Python avec pygame. Jouez à deux sur le même clavier ou affrontez une IA entraînée. Inclut un espace de chat pour discuter en temps réel pendant la partie.
 
 
 Bienvenue dans ce projet de jeu Ping Pong interactif, développé avec Python, utilisant Pygame pour l’affichage, PyTorch pour l’intelligence artificielle, et un système de chat en réseau local pour la communication entre joueurs.
+
 Ce projet est une démonstration complète mêlant jeu, intelligence artificielle et réseau, dans un esprit à la fois ludique et pédagogique.
 Crée par Trabelsi Arije étudiante à l'École Supérieure de l'Économie Numérique.
 
