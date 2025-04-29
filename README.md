@@ -94,6 +94,8 @@ En bas de l'écran, vous trouverez l'indication "Cliquez sur TAB pour ouvrir le 
 Cette image montre une session de jeu multijoueur où les joueurs s’affrontent en temps réel. La balle rebondit entre les deux raquettes, le score est comptabilisé automatiquement, et le système de chat permet aux joueurs de communiquer pendant la partie.
 ![Capture d'écran 2025-04-14 201507](https://github.com/user-attachments/assets/2e363d79-87c2-49fe-968e-e676d50f52ce)
 
+Ça joue et ça jase ! 🤗
+Cette photo montre une partie en cours où le score des deux joueurs est affiché en temps réel en haut de l’écran. Aucun gagnant pour le moment : le jeu est toujours en cours et chaque point compte ! Ce qui rend l’expérience encore plus amusante, c’est que le chat en direct est actif. On peut voir que les joueurs communiquent entre eux pendant qu’ils jouent, ajoutant une dimension sociale et interactive à la partie.
 ![Capture d'écran 2025-04-14 201507](https://github.com/user-attachments/assets/f67c4d79-25fa-45b1-a4e1-a6c6ce26726a)
  
 
