@@ -82,7 +82,15 @@ python pingpong.py
   ____
 📸 Aperçu 
 
+Cette photo montre le menu du jeu avec trois options principales :
 
+1/Deux joueurs : Jouez avec un ami en utilisant les flèches directionnelles et les touches "W" et "S" pour contrôler vos raquettes.
+
+2/Joueur contre l'IA : Affrontez un agent IA et testez vos compétences contre un adversaire virtuel.
+
+Q/Quitter : Quittez le jeu en fermant l'onglet.
+
+En bas de l'écran, vous trouverez l'indication "Cliquez sur TAB pour ouvrir le chat", vous permettant de discuter avec votre ami pendant la partie
 
 
  En pleine partie !
