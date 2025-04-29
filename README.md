@@ -91,12 +91,13 @@ Cette photo montre le menu du jeu avec trois options principales :
 Q/Quitter : Quittez le jeu en fermant l'onglet.
 
 En bas de l'écran, vous trouverez l'indication "Cliquez sur TAB pour ouvrir le chat", vous permettant de discuter avec votre ami pendant la partie
-
+![Capture d'écran 2025-04-14 200427](https://github.com/user-attachments/assets/d8025628-1605-4813-97be-48bd5af9f499)
 
  En pleine partie !
 Cette image montre une session de jeu multijoueur où les joueurs s’affrontent en temps réel. La balle rebondit entre les deux raquettes, le score est comptabilisé automatiquement, et le système de chat permet aux joueurs de communiquer pendant la partie.
 ![Capture d'écran 2025-04-14 201507](https://github.com/user-attachments/assets/2e363d79-87c2-49fe-968e-e676d50f52ce)
 
+![Capture d'écran 2025-04-14 201507](https://github.com/user-attachments/assets/f67c4d79-25fa-45b1-a4e1-a6c6ce26726a)
  
 
 🏆 Victoire du Joueur 1 !
